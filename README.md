@@ -1,4 +1,4 @@
-![Laryssa Felix](https://readme-typing-svg.herokuapp.com?font=Inter&color=F5FFFA&size=30&weight=700&lines=Hi,+My+name+is+Laryssa+Felix;Software+engineering+students)
+![Laryssa Felix](https://readme-typing-svg.herokuapp.com?font=Inter&color=F5FFFA&size=30&weight=900&lines=Hi,+My+name+is+Laryssa+Felix;Software+engineering+students)
 
 🤍 Fascinada pelo mundo tech <br>
 📧 Meu email pessoal é felixllaryssa@gmail.com<br>
