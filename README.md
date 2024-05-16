@@ -1,6 +1,6 @@
-![Laryssa Felix](https://readme-typing-svg.herokuapp.com?font=Inter&color=F5FFFA&size=30&weight=900&lines=Hi,+My+name+is+Laryssa+Felix;Software+engineering+students)
+![Laryssa Felix](https://readme-typing-svg.herokuapp.com?font=Inter&color=DA81F5&size=30&weight=900&lines=Hi,+My+name+is+Laryssa+Felix;Software+engineering+students)
 
-🤍 Fascinada pelo mundo tech <br>
+💜 Fascinada pelo mundo tech <br>
 📧 Meu email pessoal é felixllaryssa@gmail.com<br>
 👩‍🎓 Engenharia de Software - UnB (Universidade de Brasília)
 
