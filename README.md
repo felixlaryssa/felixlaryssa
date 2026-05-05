@@ -1,4 +1,4 @@
-![Laryssa Felix](https://readme-typing-svg.herokuapp.com?font=Inter&color=DA81F5&size=30&weight=900&lines=Hi,+My+name+is+Laryssa+Felix;Software+engineering+students)
+![Laryssa Felix](https://readme-typing-svg.herokuapp.com?font=Inter&color=DA81F5&size=30&weight=900&width=700&duration=3000&pause=4000&speed=40&lines=Hi,+My+name+is+Laryssa+Felix;Software+Engineering+Student)
 
 💜 Fascinada pelo mundo tech <br>
 📧 Meu email pessoal é felixllaryssa@gmail.com<br>
@@ -6,32 +6,30 @@
 
 ### Languages and Tools:
 
-<p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<p>
+  <a href="https://www.w3schools.com/css/" target="_blank" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
   </a>
-
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <a href="https://www.w3.org/html/" target="_blank" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
   </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   </a>
-
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   </a>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-
-  <!-- Docker ajustado -->
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="40"/>
+  <span style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  </span>
+  <span style="display: inline-block;">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="40"/>
+  </span>
 </p>
 
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/llaryssafelix/)
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laryssa-felix-9b34bb271/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laryssa-felix-9b34bb271/)
 
 
 </a> </p>
